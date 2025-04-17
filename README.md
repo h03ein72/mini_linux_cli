@@ -1,4 +1,4 @@
-# Mini Windows CLI
+# Mini Linux CLI
 Most used linux commands in a Mini tool CLI 
 
 ## Commands
