@@ -8,5 +8,5 @@ Most used linux commands in a Mini tool CLI
 - Install / Remove Apps [Based on APT Package Manager]
 
 ## Installation
-1- Give execution permission by `chmod +x main.sh`
+1- Give execution permission by ```chmod +x main.sh``` \
 2- Right click and run as a program. Enjoy :)
